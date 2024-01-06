@@ -1,0 +1,22 @@
+body{
+background-color:greenyellow;
+border: ;
+
+
+display: flex;
+   justify-content:center;
+
+}
+
+h1{
+  color: red; 
+   font-size: 70px;
+   
+   display: flex;
+   justify-content:center;
+   
+   }
+
+
+
+

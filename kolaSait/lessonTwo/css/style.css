@@ -1,0 +1,149 @@
+.wrapper {
+background-color: rgb(205, 144, 53);
+border: 3px green;
+}
+.block {
+background-color: rgb(3, 255, 255);
+border: 4px red;
+}
+
+
+
+
+
+/*body {
+    
+    
+  background-color: aqua;  
+font-size: 50px;
+width: 1000px ;
+border: 2px solid red ;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    color: rgb(214, 30, 91);
+    font-size: 40px;
+}
+ul {
+    color: blue;
+    font-size: 40px;
+}
+li.first {
+    color: rgb(86, 86, 100);
+    font-size: 40px;
+}
+h1 {
+    color: rgb(255, 0, 247);
+    font-size: 40px;
+}
+
+
+ ol     { 
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+}
+
+
+  .moi   {
+    color:rgb(94, 49, 43) ;
+    font-size: 40px;
+}
+
+p {
+    color:rgb(9, 2, 1) ;
+    font-size: 40px;
+}
+
+.goi   {
+    color:rgb(43`, 94, 54) ;
+    font-size: 80px;
+}
+
+
+
+header {
+    background-image: url(/img/why.jpg) ;
+    font-size: 40px;
+}
+
+.head  {
+    display: flex;
+    justify-content: center ;
+    
+    
+}
+
+
+
+
+
+
+
+/*.content {
+    background-color: firebrick;
+    text-align: center;
+    border: blue 3px solid;
+    width: 1000px;
+    margin: 0 auto;
+}
+h1 h1 {
+    color: blue;
+    font-size: 40px;
+}
+.navigatio {
+    margi: 0px auto;
+    font-size: 25px;
+    color: blue;
+    border: 10px blue solid;
+    background: url(../img/why.jpg);
+
+    width: 850px;
+    height: 158px;
+}
+.navigatio :hover {
+    background-color: blue;
+    color: white;
+}
+.navigatio :active {
+    background-color: green;
+    color: yellow;
+}
+.navigatio ul {
+    border: 3px solid blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.navigatio ul li {
+    border: 3px solid red;
+}
+.navigatio ul :hover {
+    color: white;
+}
+.how {
+    margin: 0 0px 55px 0px;
+}
+
+.body {
+}
+
+h3 {
+    color: blue;
+    font-size: 40px;
+}
+
+@media (min-width: 1042px) {
+    h3 {
+        display: none;
+    }
+}
+@media (max-width: 1042px) {
+    h1 {
+        display: none;
+    }
+}
+form {
+
+}*/
